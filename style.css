@@ -600,4 +600,7 @@ footer {
   .section-header h3 {
     font-size: 1.5rem;
   }
+  .benefits-list li::before {
+    left: 0.5rem;
+  } 
 }
